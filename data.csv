@@ -1,0 +1,6 @@
+﻿student_ID,student_Name,student_College,student_Email,student_Batch,student_Placement_Status,student_DSA_Score,student_Webd_Score,student_React_Score,interview_Date,interview_Company,interview_Result
+"6450ea233587dae2a84f1c1f","raman","upes","raman@gmail.com","MAY 23","Not placed",85,80,75,"2023-04-14","tcs","PASS"
+"6451fa11a6836d73161d2eec","Radhe Singh","KIET","radhw@gmail.com","2023","Placed",70,78,80,"NA","NA","NA"
+"6452112f77578e5426835b42","Sanskruti","Girls","dfsf@gmail.com","2024","Placed",70,80,90,"NA","NA","NA"
+"64524ae2732191410efcf1b5","neraj","KIET","dbawid94@gmail.com","2023","Placed",50,80,80,"NA","NA","NA"
+"645b434b3a6da18bfccd0a57"," raju","rungta","raju@gmail.com","2023","Not placed",33,33,33,"NA","NA","NA"
